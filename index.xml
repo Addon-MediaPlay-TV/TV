@@ -1,0 +1,45 @@
+<item>
+<title>Programacion EPG [FormulaTV]</title>
+ <link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][makelist.param1][/B][B][makelist.param2] [makelist.param3][/B][makelist.param4] [makelist.param5]</titl$
+<link>$doregex[ip]|User-Agent=iPad</link>
+<thumbnail>http://blackghost.co/gray/img/entretenimiento.png</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[title=.*?n\s(.*?)"|"(ahor.*?)">\n\s\s\s(.*?)\n|date">(.*?)</span>\n\s\s\s(.*)\n]]></expres>
+<page>http://www.formulatv.com/programacion/</page>
+</regex>
+<thumbnail>http://blackghost.co/gray/img/entretenimiento.png</thumbnail>
+</item>
+<item>
+<title>OPCION 1</title>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+<link>http://</link>
+<externallink>https://github.com/josetg01/MediaPlay-TV/raw/master/Codigos/TV/TODOS.xml</externallink>
+</item>
+<item>
+<title>ADULTOS</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://</link>
+<externallink></externallink>
+<parentalblock>true</parentalblock>
+</item>
+<item>
+<title>TDTCHANNELS</title>
+<thumbnail>https://cdn4.telesco.pe/file/F4oxuAzHED79bJw9i5Wuz-1pTvZ98huVuBx5KtKy-q-NF5yNkFDacWBB1gi-fPf3QcXpoge4CnqpHl1AL9NRPJRXFVsqSCvnh3T12G29wguAXBRsoJhM-1p3uo2nQCU8c7gsG0o809ny7jEcQ2XYbFbawixON11CkFPFrEqzMlQt63PP30cEku5C0ROE5K2Yt8XEhH0lRK3AWn2AL6UGcNnK0t4bhl-Mu-6mF5yuizFuDGVSzAwIzHKksA_lvfJmVpT7_OMEkGhaYys1OoIoYJOs84Ihxlmzjt1muG9UBPXnwepWODa58UYUrEl6G6Z4cx7Ry3KFd4Dl8co-u5hcWw.jpg</thumbnail>
+<fanart></fanart>
+<link>http://</link>
+<externallink>http://91.121.64.179/tdt_project/output/channels.m3u8</externallink>
+<info>Esta url es gracias al trabajo de los administradores del grupo @tdtchannels de Telegram. Creditos de esta lista a ellos.</info>
+</item>
+<item>
+<title>LIVE TV</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://</link>
+<externallink></externallink>
+</item>
