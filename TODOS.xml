@@ -13,7 +13,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/LA1.png?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/LA1.png?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]ANTENA 3[/UPPERCASE][/COLOR] </title>
@@ -30,7 +30,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/Antena%203.png?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/Antena%203.png?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]CUATRO TV[/UPPERCASE][/COLOR] </title>
@@ -47,7 +47,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/Cuatro.png?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/Cuatro.png?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]Telecinco[/UPPERCASE][/COLOR] </title>
@@ -64,7 +64,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/Telecinco.png?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/Telecinco.png?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]LA SEXTA[/UPPERCASE][/COLOR] </title>
@@ -81,7 +81,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/La%20Sexta.png?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/La%20Sexta.png?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]NOVA[/UPPERCASE][/COLOR] </title>
@@ -98,7 +98,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/nova.jpg?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/nova.jpg?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]DIVINTY[/UPPERCASE][/COLOR] </title>
@@ -115,7 +115,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/divinity.png?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/divinity.png?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]A3SERIES[/UPPERCASE][/COLOR] </title>
@@ -132,7 +132,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/A-tres-Series.jpg?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/A-tres-Series.jpg?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]BEMAD[/UPPERCASE][/COLOR] </title>
@@ -149,7 +149,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/be%20mad.png?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/be%20mad.png?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]ENERGY[/UPPERCASE][/COLOR] </title>
@@ -166,7 +166,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/energy.png?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/energy.png?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]FDF[/UPPERCASE][/COLOR] </title>
@@ -183,7 +183,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/fdf.jpg?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/fdf.jpg?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]NEOX[/UPPERCASE][/COLOR] </title>
@@ -200,7 +200,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/neox.png?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/neox.png?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]MEGA[/UPPERCASE][/COLOR] </title>
@@ -217,7 +217,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/mega.jpg?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/mega.jpg?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]TEN[/UPPERCASE][/COLOR] </title>
@@ -234,7 +234,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/TenTV.png?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/TenTV.png?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]AMC[/UPPERCASE][/COLOR] </title>
@@ -251,7 +251,7 @@
   <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
   <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
   </regex>
-  <thumbnail>https://github.com/josetg01/MediaPlay-TV/blob/master/Codigos/TV/LOGOS/AMC.jpg?raw=true</thumbnail>
+  <thumbnail>https://raw.githubusercontent.com/Addon-MediaPlay-TV/IMAGENES/master/TV%20LOGOS/AMC.jpg?raw=true</thumbnail>
 </item>
 <item>
   <title>[UPPERCASE][COLOR skyblue]TCM[/UPPERCASE][/COLOR] </title>
