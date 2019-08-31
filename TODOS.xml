@@ -271,6 +271,57 @@
   <thumbnail>https://raw.githubusercontent.com/josetg01/MediaPlay-TV/master/Codigos/TV/LOGOS/TCM%20HD.png</thumbnail>
 </item>
 <item>
+  <title>[UPPERCASE][COLOR skyblue]FOX[/UPPERCASE][/COLOR] </title>
+  <link>https:$doregex[get-id]|Referer=https://vercanalestv1.com/tv/nacionales/telecinco.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0$$lsname=opc1</link>
+  <regex>
+  <name>get-id</name>
+  <expres>source: '([^']+)</expres>
+  <page>https://vergol.com/bgjhykdmbtj668/live/fox1.php</page>
+  <rawpost>manzana66=12345</rawpost>
+  <connection>keep-alive</connection>
+  <accept>*/*</accept>
+  <X-Req>XMLHttpRequest</X-Req>
+  <referer>https://vercanalestv1.com/tv/nacionales/telecinco.html</referer>
+  <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+  <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
+  </regex>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png</thumbnail>
+</item>
+<item>
+  <title>[UPPERCASE][COLOR skyblue]FOX LIVE[/UPPERCASE][/COLOR] </title>
+  <link>https:$doregex[get-id]|Referer=https://vercanalestv1.com/tv/nacionales/telecinco.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0$$lsname=opc1</link>
+  <regex>
+  <name>get-id</name>
+  <expres>source: '([^']+)</expres>
+  <page>https://vergol.com/bgjhykdmbtj668/live/foxlife.php</page>
+  <rawpost>manzana66=12345</rawpost>
+  <connection>keep-alive</connection>
+  <accept>*/*</accept>
+  <X-Req>XMLHttpRequest</X-Req>
+  <referer>https://vercanalestv1.com/tv/nacionales/telecinco.html</referer>
+  <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+  <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
+  </regex>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png</thumbnail>
+</item>
+<item>
+  <title>[UPPERCASE][COLOR skyblue][/UPPERCASE][/COLOR] </title>
+  <link>https:$doregex[get-id]|Referer=https://vercanalestv1.com/tv/nacionales/telecinco.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0$$lsname=opc1</link>
+  <regex>
+  <name>get-id</name>
+  <expres>source: '([^']+)</expres>
+  <page></page>
+  <rawpost>manzana66=12345</rawpost>
+  <connection>keep-alive</connection>
+  <accept>*/*</accept>
+  <X-Req>XMLHttpRequest</X-Req>
+  <referer>https://vercanalestv1.com/tv/nacionales/telecinco.html</referer>
+  <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+  <cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
+  </regex>
+  <thumbnail>http://blackghost.co/gray/img/esp.png</thumbnail>
+</item>
+<item>
   <title>[UPPERCASE][COLOR skyblue][/UPPERCASE][/COLOR] </title>
   <link>https:$doregex[get-id]|Referer=https://vercanalestv1.com/tv/nacionales/telecinco.html&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0$$lsname=opc1</link>
   <regex>
