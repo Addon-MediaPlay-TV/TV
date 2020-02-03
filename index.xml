@@ -53,7 +53,8 @@
 <listrepeat><![CDATA[
 <SetViewMode>55</SetViewMode>
 <title>[index.param2] - [index.param3]</title>
-<link>[index.param1]</link>
+<link>http://</link>
+<externallink>[index.param1]</externallink>
 <thumbnail>http://</thumbnail>
 <fanart>http://</fanart>
 ]]></listrepeat>
