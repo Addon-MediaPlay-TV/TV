@@ -90,12 +90,21 @@
 <listrepeat><![CDATA[
 <SetViewMode>55</SetViewMode>
 <title>[index.param2] - [index.param3]</title>
-<link>http://</link>
-<externallink>[index.param1]</externallink>
+<link>$doregex[makelist]</link>
 <thumbnail>http://</thumbnail>
 <fanart>http://</fanart>
 ]]></listrepeat>
 <expres>a href="([^"]+)" class="attachment-link" title="es_([^"]+)0220_iptvgratuit_xyz ([^"]+)"</expres>
 <page>https://iptvgratuit.xyz/iptv-listas-espana-gratis-actualizada/</page>
+</regex>
+ <regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-1.*,(.*?)\n.*(http.*)</expres>
+<page>[index.param1]</page>
 </regex>
 <item>
