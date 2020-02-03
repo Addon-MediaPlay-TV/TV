@@ -19,10 +19,47 @@
 <title>`[COLOR gold]RECOMENDADO[/COLOR] - OPCION 1</title>
 <thumbnail>http://</thumbnail>
 <fanart>http://</fanart>
-<link>http://</link>
-<externallink>https://github.com/josetg01/MediaPlay-TV/raw/master/Codigos/TV/TODOS.xml</externallink>
-</item>
-<item>
+<link>$doregex[makelist2]</link>
+
+ <regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[COLOR lightgreen]VerCanalesTV [/COLOR]- [makelist2.param2] </title>
+<link>https:$doregex[get-id]|Referer=https://vergol.com/canales996/live/plusestrenos.php&amp;User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0</link>
+<thumbnail>https:[makelist2.param3]</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="(.*?)".*?title="(.*?)Online.*?src="(.*?)"[\w\W\s]{0,10}45"]]></expres>
+<page>https://verliga1.net/</page>
+</regex>
+
+<regex>
+<name>get-id</name>
+<expres>source: '(.*?)'</expres>
+<rawpost>manzana66=12345</rawpost>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar>f7b45bba7e7d621cdd92a03b3e1539974955</cookieJar>
+<page>https:$doregex[page2]</page>
+<referer>https://verliga1.net/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page2</name>
+<expres>src="(\/\/[^"]+)</expres>
+<page>https://verliga1.net$doregex[page3]</page>
+<referer>https://verliga1.net/</referer>
+<cookieJar></cookieJar>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<regex>
+<name>page3</name>
+<expres>0" src="([^"]+)</expres>
+<page>[makelist2.param1]</page>
+<referer>https://verliga1.net/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+</regex>
+<thumbnail>http://blackghost.co/gray/img/esp.jpg</thumbnail></item>
 <title>ADULTOS</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
