@@ -45,3 +45,19 @@
 <link>http://</link>
 <externallink></externallink>
 </item>
+<item>
+<title>MULTILISTAS 1</title>
+ <link>$doregex[index]</link>
+<regex>
+<name>index</name>
+<listrepeat><![CDATA[
+<SetViewMode>55</SetViewMode>
+<title>[index.param2] - [index.param3]</title>
+<link>[index.param1]</link>
+<thumbnail>http://</thumbnail>
+<fanart>http://</fanart>
+]]></listrepeat>
+<expres>a href="([^"]+)" class="attachment-link" title="es_([^"]+)0220_iptvgratuit_xyz ([^"]+)"</expres>
+<page>https://iptvgratuit.xyz/iptv-listas-espana-gratis-actualizada/</page>
+</regex>
+<item>
